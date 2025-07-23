@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @PaulinaSell
-- 👀 I’m interested in Epidemiology, specifically environmental and social epidemiology.
-- 🌱 I’m currently learning to work better with R.
-- 📫 How to reach me: via E-Mail or Research Gate.
-- 😄 Pronouns: she / her
+- Hi, I’m @PaulinaSell (pronouns: she / her)
+- I’m interested in environmental epidemiology.
