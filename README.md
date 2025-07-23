@@ -1,2 +1,1 @@
-- Hi, I’m @PaulinaSell (pronouns: she / her)
-- I’m interested in environmental epidemiology.
+Hi, I’m Paulina (she/her) and I’m interested in environmental epidemiology and burden of disease.
